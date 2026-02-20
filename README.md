@@ -6,8 +6,8 @@ This repository is a collection of my daily Python practice problems, concepts, 
 ## 📌 Goals
 - [ ] Master Python Fundamentals (Operators, Loops, Functions)
 - [ ] Build logic-based mini-projects
-- [ ] Integrate Python AI models with MERN applications (Quantify Project)
-- [ ] Transition into Python-based Backend roles (Django/FastAPI)
+- [ ] Integrate Python AI models with MERN applications
+
 
 ## 📂 Repository Structure
 The code is organized by topics for easy navigation:
